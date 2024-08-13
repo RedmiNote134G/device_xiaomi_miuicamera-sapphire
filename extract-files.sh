@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=miuicamera-cupid
+DEVICE=miuicamera-topaz
 VENDOR=xiaomi
 
 # Load extract_utils and do some sanity checks
