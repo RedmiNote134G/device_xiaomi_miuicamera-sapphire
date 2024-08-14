@@ -1,6 +1,6 @@
-# All unpinned blobs below are extracted from topaz V816.0.5.0.UMGIDXM
+# All unpinned blobs below are extracted from sapphire V816.0.5.0.UNGMIXM
 
-product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk|e3fdf20947b4f3f5e786cae2ccbcef0ff2b3532d
+product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk|08f3a50e2b82ccc92e8d5ba4d7bdc008504208a4
 system_ext/lib64/libcamera_algoup_jni.xiaomi.so:system/lib64/libcamera_algoup_jni.xiaomi.so
 system_ext/lib64/libcamera_mianode_jni.xiaomi.so:system/lib64/libcamera_mianode_jni.xiaomi.so
 system_ext/lib64/libmicampostproc_client.so:system/lib64/libmicampostproc_client.so
