@@ -5,7 +5,7 @@
 #
 
 # Inherit from the proprietary version
-$(call inherit-product, vendor/xiaomi/miuicamera-topaz/miuicamera-topaz-vendor.mk)
+$(call inherit-product, vendor/xiaomi/miuicamera-sapphire/miuicamera-sapphire-vendor.mk)
 
 # Public libraries
 PRODUCT_COPY_FILES += \
