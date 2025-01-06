@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from sapphire V816.0.7.0.UNGMIXM
+# All unpinned blobs below are extracted from sapphire V816.0.9.0.UNGMIXM
 
 product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Aperture,Snap,Camera2,GoogleCameraGo
 product/priv-app/ExtraPhotoGlobal/ExtraPhotoGlobal.apk:system/priv-app/ExtraPhotoGlobal/ExtraPhotoGlobal.apk
